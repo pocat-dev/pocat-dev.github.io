@@ -114,6 +114,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 - 🐦 Twitter: [@sandikodev](https://twitter.com/sandikodev)
 - 🎵 TikTok: [@sandikodev](https://tiktok.com/@sandikodev)
+- 🐙 GitHub: [@sandikodev](https://github.com/sandikodev)
+- 💼 LinkedIn: [@sandikodev](https://linkedin.com/in/sandikodev)
 
 ## 🙏 Acknowledgments
 
