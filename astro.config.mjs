@@ -60,6 +60,15 @@ export default defineConfig({
 					],
 				},
 				{
+					label: '📖 Guides',
+					items: [
+						{ label: 'Migration from youtube-dl', slug: 'guides/migration-from-youtube-dl' },
+						{ label: 'Deployment Guide', slug: 'guides/deployment' },
+						{ label: 'Performance Optimization', slug: 'guides/example' },
+						{ label: 'Troubleshooting', slug: 'guides/troubleshooting' },
+					],
+				},
+				{
 					label: '🛠️ Development',
 					items: [
 						{ label: 'Setup Environment', slug: 'development/setup' },
