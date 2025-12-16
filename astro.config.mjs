@@ -5,7 +5,7 @@ import starlight from '@astrojs/starlight';
 // https://astro.build/config
 export default defineConfig({
 	site: 'https://konxc.github.io',
-	base: '/pocat',
+	base: process.env.NODE_ENV === 'production' ? '/pocat' : '/',
 	integrations: [
 		starlight({
 			title: 'Pocat Documentation',
